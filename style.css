@@ -6,8 +6,8 @@ body {
 
 
 #myCanvas {
-  background-image: url("https://images.pexels.com/photos/1387577/pexels-photo-1387577.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
-  background-size: 400px;
+  background-image: url("https://media.wtwco.com/-/media/WTW/Brand-1610-Refresh/GettyImages-1286451115-1610.jpg?modified=20230306174001&imgeng=meta_true&la=en-CA&h=506&w=810&mw=810&hash=9086F834B44E0F9AE54FB9A2105F92F6");
+  background-size: 650px;
   border-radius: 30px;
   border: 1px solid rgb(255,245,227);
 }
@@ -17,4 +17,5 @@ body {
   text-align: left;
   justify-content: space-around;
 }
+
 
