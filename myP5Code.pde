@@ -47,11 +47,15 @@ draw = function(){
   text("KACHOW!",textX-10,170);
   
   
-  speechX +=2.5
-  textX +=2.5
+  speechX +=4
+  textX +=4
   textSizeX +=0.3
   fireworkX +=4;
 
+if(speechX > 500){speechX = 20}
+if(textX > 500){textX = 20}
+if(textSizeX > 200){textSizeX = 10}
+if(fireworkX > 500){fireworkX = 10}
 }
 
 //🟡Extra FUN Features Ms. Hall Added
